@@ -1,6 +1,6 @@
 # flutter_ecommerce_demo
 
-A new Flutter project.
+A very simple flutter ecommerce project, backend with Node.js (Strapi), payment with Stripe.
 
 ## Getting Started
 
